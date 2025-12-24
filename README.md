@@ -85,7 +85,7 @@ docker run --runtime nvidia --gpus all \
     --max-model-len 4096
 ```
 
-#### 2. 部署 Qwen3 路由模型
+#### 2. 部署 Qwen3 节点路由及标题生成模型
 
 ```bash
 docker run --runtime nvidia --gpus all \
