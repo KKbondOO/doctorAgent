@@ -48,8 +48,8 @@ Demo/
 voice/
 med_agent/
 
-# 排除 CSV 数据文件（太大）
-*.csv
+# 允许上传示例数据文件
+# *.csv
 
 # 排除数据库文件
 *.db
